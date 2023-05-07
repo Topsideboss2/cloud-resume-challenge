@@ -21,6 +21,7 @@ I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my
 
 ### [Blog series](https://topsideboss2.engineer):
 * What is the Cloud Resume Challenge?
+* Napkin Design
 * Setting up website with HTML, CSS and JavaScript
 * Setting up S3 Bucket
 * Setting up CloudFront
@@ -29,6 +30,5 @@ I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my
 * Setting up CI/CD with Jenkins
 * Implementing Infrastructure as Code with Terraform
 * Implementing Monitoring with Datadog
-*
 
 ### Live Demo 🔗
