@@ -7,6 +7,8 @@
 I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my own liking
 
 ## Architecture
+
+
 ### Services used:
 * S3
 * AWS Lambda
