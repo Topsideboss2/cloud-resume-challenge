@@ -4,6 +4,8 @@
 
 [The AWS Cloud Resume Challenge](https://cloudresumechallenge.dev) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in cloud. The project was published by Forrest Brazeal.
 
+I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my own liking
+
 ## Architecture
 ### Services used:
 * S3
@@ -14,6 +16,7 @@
 * Dynamo DB
 * Jenkins
 * Terraform
+* Datadog
 
 
 ### [Blog series](https://topsideboss2.engineer):
@@ -25,7 +28,7 @@
 * Setting up AWS Lambda Function
 * Setting up CI/CD with Jenkins
 * Implementing Infrastructure as Code with Terraform
-*
+* Implementing Monitoring with Datadog
 *
 
 ### Live Demo 🔗
