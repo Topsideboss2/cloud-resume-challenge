@@ -1,5 +1,5 @@
 # AWS-Cloud-Resume-Challenge
-
+![](_docs/images/AWS-Cloud-Resume-Challenge.png)
 ## What is the AWS Cloud Resume Challenge?
 
 [The AWS Cloud Resume Challenge](https://cloudresumechallenge.dev) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in cloud. The project was published by Forrest Brazeal.
@@ -16,7 +16,7 @@ I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my
 * Route 53
 * Amazon Certificate Manager
 * Dynamo DB
-* Jenkins
+* Github Actions
 * Terraform
 * Datadog
 
@@ -29,7 +29,7 @@ I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my
 * Setting up CloudFront
 * Setting up DynamoDB
 * Setting up AWS Lambda Function
-* Setting up CI/CD with Jenkins
+* Setting up CI/CD with Github Actions
 * Implementing Infrastructure as Code with Terraform
 * Implementing Monitoring with Datadog
 
