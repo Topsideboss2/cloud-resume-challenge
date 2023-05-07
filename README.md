@@ -1,6 +1,6 @@
 # AWS-Cloud-Resume-Challenge
 
-## What is AWS Cloud Resume Challenge?
+## What is the AWS Cloud Resume Challenge?
 
 [The AWS Cloud Resume Challenge](https://cloudresumechallenge.dev) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in cloud. The project was published by Forrest Brazeal.
 
