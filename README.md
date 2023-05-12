@@ -7,7 +7,7 @@
 I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my own liking
 
 ## Architecture
-
+![](_docs/images/AWS-Cloud-Resume-Challenge.png)
 
 ### Services used:
 * S3
