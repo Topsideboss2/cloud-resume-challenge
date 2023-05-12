@@ -1,5 +1,5 @@
 # AWS-Cloud-Resume-Challenge
-![](_docs/images/AWS-Cloud-Resume-Challenge.png)
+![](_docs/images/AWS-Cloud-resume-challenge.jpeg)
 ## What is the AWS Cloud Resume Challenge?
 
 [The AWS Cloud Resume Challenge](https://cloudresumechallenge.dev) is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in cloud. The project was published by Forrest Brazeal.
@@ -7,7 +7,7 @@
 I will attempt to complete the AWS Cloud Resume Challenge but with a twist of my own liking
 
 ## Architecture
-![](_docs/images/AWS-Cloud-Resume-Challenge.png)
+![](_docs/images/AWS-Cloud-Resume-Challenge-Architecture.png)
 
 ### Services used:
 * S3
